@@ -1,5 +1,17 @@
 # Changelog
 
+## [19.73.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.72.0...v19.73.0) (2024-08-01)
+
+
+### Features
+
+* **add:** ZC0101 [@vkanev](https://github.com/vkanev) https://github.com/Koenkk/zigbee-herdsman-converters/pull/7767 ([173472a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/173472ae752de1fd413da24ce493bad3b40a29ae))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZ3000_kxlmv9ag` as Tuya TS0207_repeater @MartinNeurol https://github.com/Koenkk/zigbee2mqtt/issues/23458 ([29d0348](https://github.com/Koenkk/zigbee-herdsman-converters/commit/29d0348af5b4cf11beb56a8c3bfd308babcff1ea))
+
 ## [19.72.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.71.1...v19.72.0) (2024-08-01)
 
 
